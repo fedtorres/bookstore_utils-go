@@ -20,13 +20,13 @@ func TestNewInternalServerError(t *testing.T) {
 }
 
 func TestNewBadRequestError(t *testing.T) {
-
+	//TODO: Test!
 }
 
 func TestNewNotFoundError(t *testing.T) {
-
+	//TODO: Test!
 }
 
 func TestNewError(t *testing.T) {
-
+	//TODO: Test!
 }
